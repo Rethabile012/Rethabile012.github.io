@@ -9,7 +9,7 @@
 .hero{
     width: 100%;
     min-height: 100vh;
-    background-image: url(./—Pngtree—abstract\ technology\ background\ technical\ electric_1252603.jpg);
+    background-image: url(./global-business-internet-network-connection-iot-internet-things-business-intelligence-concept-busines-global-network-futuristic-technology-background-ai-generative.jpg);
     background-position: center;
     background-size: cover;
     padding: 10px 10%;
@@ -79,6 +79,10 @@ nav ul li a{
 .content{
     margin-top: 10%;
     max-width: 600px;
+    color: white;
+}
+.content p{
+    animation-delay: 0.5s;
 }
 .gitlogin-btn:hover{
     border-top-right-radius:30px ;
@@ -94,6 +98,10 @@ nav ul li a{
     position: absolute;
     bottom: 0;
     right: 10%;
+
+}
+.picture.animation{
+    animation-delay: 1s;
 
 }
 .animation{
@@ -192,4 +200,15 @@ nav ul li a{
 .contactbtn{
     border-top-right-radius:30px ;
     border-color: black;
+}
+.hero2{
+    width: 100%;
+    min-height: 100vh;
+    background-image: url(./background-realistic-abstract-technology-particle_23-2148431735.avif);
+    background-position: center;
+    background-size: cover;
+    padding: 10px 10%;
+    overflow: hidden;
+    position: relative;
+    
 }
