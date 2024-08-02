@@ -221,7 +221,7 @@ nav ul li a{
 
 }
 .section{
-    color: white;
+    color: black;
 
 }
 .education{
@@ -231,6 +231,7 @@ nav ul li a{
     color:white;
 }
 .out{
+    color: white;
     width: 100%;
     min-height: 100vh;
     background-image: url(./19601032_v617batch2-bb-02-technology.jpg);
