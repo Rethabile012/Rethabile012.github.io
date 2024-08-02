@@ -221,7 +221,15 @@ nav ul li a{
 
 }
 .section{
-    color: black;
+    color: white;
+    width: 100%;
+    min-height: 100vh;
+    background-image: url(./360_F_657341952_E8I9NuyOn7Rle6rMgx0QDou5vt695P4I.jpg);
+    background-position: center;
+    background-size: cover;
+    padding: 10px 10%;
+    overflow: hidden;
+    position: relative;
 
 }
 .education{
