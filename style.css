@@ -222,16 +222,9 @@ nav ul li a{
 }
 .section{
     color: white;
-    width: 100%;
-    min-height: 100vh;
-    background-image: url(./360_F_657341952_E8I9NuyOn7Rle6rMgx0QDou5vt695P4I.jpg);
-    background-position: center;
-    background-size: cover;
-    padding: 10px 10%;
-    overflow: hidden;
-    position: relative;
-
 }
+
+
 .education{
     color: white;
 }
@@ -259,4 +252,15 @@ nav ul li a{
     padding: 10px 10%;
     overflow: hidden;
     position: relative;
+}
+.hero3{
+    color: white;
+        width: 100%;
+        min-height: 100vh;
+        background-image: url(./background-realistic-abstract-technology-particle_23-2148431735.avif);
+        background-position: center;
+        background-size: cover;
+        padding: 10px 10%;
+        overflow: hidden;
+        position: relative;
 }
