@@ -230,3 +230,13 @@ nav ul li a{
 .footer{
     color:white;
 }
+.out{
+    width: 100%;
+    min-height: 100vh;
+    background-image: url(./19601032_v617batch2-bb-02-technology.jpg);
+    background-position: center;
+    background-size: cover;
+    padding: 10px 10%;
+    overflow: hidden;
+    position: relative;
+}
