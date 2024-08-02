@@ -11,3 +11,4 @@ The projects page explains all the projects i have done and some were group work
 # Contact
 The contact page holds all of my contact information.
 
+Still working to enhance the website
